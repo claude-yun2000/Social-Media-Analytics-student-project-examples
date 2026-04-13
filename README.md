@@ -4,4 +4,4 @@ With the consent of the students, this repository contains a couple of project p
 - Analysis of user comments of the Apple iOS 18 on Reddit
 - Readers' comments on ethnic Yao Chinese folktales on Bilibili
 
-Since Github does't support the preview of PDF files, you will need to fork (download) the PDF files to read them.
+Since Github does't support the preview of PDF files, you will need to fork (download) the PDF files in order to read them.
